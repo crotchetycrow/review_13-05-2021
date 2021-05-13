@@ -4,7 +4,7 @@ teachers how students did on tests
 
 string comma separated values tests from schools
 
-reports from strings
+generates reports from strings
 
 -------------
 
